@@ -3,8 +3,12 @@ Container tags
     <html></html> 
 Head tags
     <head></head>
+    <title></title>
 Body tags  
     <body></body>
+    <header></header>
+    <main></main>
+    <footer></footer>
 
 Basic tags
     <meta>
@@ -18,4 +22,4 @@ Basic tags
     <small></small> slightly smaller text
     <sub></sub> subscript e.g. H2O
     <sup></sup> superscript e.g. 10 to power 2
-    
+    <!-- --> comment
