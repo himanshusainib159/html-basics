@@ -1,0 +1,21 @@
+<!Doctype>type of document to the web browser
+Container tags
+    <html></html> 
+Head tags
+    <head></head>
+Body tags  
+    <body></body>
+
+Basic tags
+    <meta>
+    <h1></h1> h1 to h6
+    <p></p> paragraph
+    <b></b> bold
+    <i></i> italic
+    <br></br> break use <br/>
+    <hr></hr> horizontal line use </hr>
+    <big></big> slightly bigger text
+    <small></small> slightly smaller text
+    <sub></sub> subscript e.g. H2O
+    <sup></sup> superscript e.g. 10 to power 2
+    
