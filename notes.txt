@@ -6,13 +6,17 @@ Head tags
     <title></title>
 Body tags  
     <body></body>
-    <header></header>
-    <main></main>
+    <header></header> h1 , h2 to h6
+      <nav></nav>
+      <main></main>
+      <article></article>
+        <section></section>
+      <aside></aside>
     <footer></footer>
 
 Basic tags
     <meta>
-    <h1></h1> h1 to h6
+    <h1></h1> h1 to h6 header tags
     <p></p> paragraph
     <b></b> bold
     <i></i> italic
@@ -23,3 +27,16 @@ Basic tags
     <sub></sub> subscript e.g. H2O
     <sup></sup> superscript e.g. 10 to power 2
     <!-- --> comment
+    <li></li>  list
+
+
+Links
+  <a href="https://www.google.com"></a>
+ used for linking html pages to each other
+ used for images as well  <a href="doc/abc.png"></a>
+
+target="_blank" for links to take to new page
+
+images  
+  <img width="100px" height="50px" src="abc.jpeg" alt="image">
+  
