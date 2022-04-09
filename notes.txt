@@ -39,4 +39,33 @@ target="_blank" for links to take to new page
 
 images  
   <img width="100px" height="50px" src="abc.jpeg" alt="image">
-  
+  we can link an image to an image using 
+  <a href="https://image.shutterstock.com/image-photo/tyrannosaurus-rex-isolated-white-260nw-509463667.jpg">
+  <img src="abc.jpeg" alt="jkl">
+  </a>
+
+video
+  <video src="sample.mp4" controls autoplayy loop width="" height=""></video>
+  you can control the size of the video only using width
+  use visdeo frm youtube using embed optio on share in youtube
+
+lists
+  <ul>
+    <li> apple</li>
+    <li><a href="#">orange</a></li>
+  </ul>
+  <ol type="i">
+    <li>oranges</li>
+    <li> apples
+      <ol>
+        <li>item1</li>
+      </ol>
+    </li>
+    <li>banana</li>
+  </ol>
+
+description list
+<dl>
+  <dt>apples></dt>
+  <dd> they are red</dd>
+</dl>
